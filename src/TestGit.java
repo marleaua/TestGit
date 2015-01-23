@@ -17,6 +17,12 @@ public class TestGit {
     public static void main(String[] args) {
         // TODO code application logic here
         
+        if (args.length != 1) {
+            
+            System.out.println("Wrong args");
+            System.exit(1);
+        }
+        
         System.out.println("Hello " + args[0] + "!");
         
     }
