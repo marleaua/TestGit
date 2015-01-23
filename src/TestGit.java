@@ -27,6 +27,7 @@ public class TestGit {
         System.out.println("Changement commit 2");
         System.out.println("Changement commit Bla Bla Bla");
         System.out.println("Rajout d'une ligne 100000 original");
+        System.out.println("Rajout d'une ligne 29 original");
         
     }
     
