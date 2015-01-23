@@ -25,6 +25,7 @@ public class TestGit {
         System.out.println("Hello " + args[0] + "!");
         System.out.println("Changement commit 1");
         System.out.println("Changement commit 2");
+        System.out.println("Changement commit Bla Bla Bla");
         
     }
     
